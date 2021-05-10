@@ -42,7 +42,7 @@ download_txt_csv_straight(src_url)
 
 
 rep_src = "Telechargements"
-filename = "PCSI_TP_14_table_pays__csv_utf-8__semi_colon_.csv"
+filename = "PCSI_TP14_table_pays__csv_utf-8__semi_colon_.csv"
 path_to_file = os.path.join(rep_src, filename)
 
 
